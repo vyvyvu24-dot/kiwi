@@ -376,3 +376,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 Вranch1: первое изменение
 Вranch1: второе изменение
 Вranch1: третье изменение
+branch1-extra-1
